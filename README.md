@@ -1,4 +1,4 @@
-<img width="814" height="532" alt="image" src="https://github.com/user-attachments/assets/aaca5303-495c-43dc-b205-f7ab090fe582" /># SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
+# SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
 
 **AIM:**
 
@@ -42,13 +42,17 @@ endmodule
 
 ```
 RTL realization
+
 <img width="814" height="532" alt="Screenshot 2026-05-24 220749" src="https://github.com/user-attachments/assets/146169c9-17c1-4873-843e-a35261949547" />
 
 **RTL LOGIC FOR SISO Shift Register**
+
 <img width="1365" height="498" alt="Screenshot 2026-05-24 220601" src="https://github.com/user-attachments/assets/aa830144-31ea-4d21-a038-e61739d77864" />
 
 
 **TIMING DIGRAMS FOR SISO Shift Register**
+
 <img width="938" height="402" alt="image" src="https://github.com/user-attachments/assets/d1404354-9c42-4dd7-aee8-daa0210b6273" />
 
 **RESULTS**
+Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
